@@ -1,0 +1,17 @@
+JVM info: Ubuntu - 11.0.10 - 11.0.10+9-Ubuntu-0ubuntu1.20.04
+java.net.preferIPv4Stack=true
+Found java version 11.0.10
+Target Directory: /tmp/forge-h8WXEV/1.17.1
+Data kindly mirrored by CreeperHost at https://www.creeperhost.net/
+Considering minecraft server jar
+  Downloading library from https://launcher.mojang.com/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar
+    Download completed: Checksum validated.
+Downloading libraries
+Considering library cpw.mods:securejarhandler:0.9.46
+  Downloading library from https://maven.creeperhost.net/cpw/mods/securejarhandler/0.9.46/securejarhandler-0.9.46.jar
+    Download completed: Checksum validated.
+Considering library org.ow2.asm:asm:9.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.1/asm-9.1.jar
+    Download completed: Checksum validated.
+Considering library org.ow2.asm:asm-commons:9.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar
